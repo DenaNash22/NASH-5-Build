@@ -1,4 +1,4 @@
-/* CSS by Christina Carrasquilla, iteration by */
+/* CSS by Christina Carrasquilla, iteration by Dena Nash */
 
 /* ===== Color Palette ===== 
 
@@ -109,3 +109,21 @@ footer {
 /* target the nav and display it flex, spaceed around */
 /* target the .card-row to display flex */
 /* target the sections in .card-row witha width for 30% */
+
+/* ===== MEDIA QUERY (MEDIUM) ===== */
+@media screen and (min-width: 800px) {
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+        gap: 1rem;
+    }
+
+    .card-row {
+        display: flex;
+        gap: 1rem;
+    }
+
+    .card-row section {
+        width: 30%;
+    }
+}
