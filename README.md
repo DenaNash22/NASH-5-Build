@@ -4,8 +4,8 @@ The HTML is semantic and validated.
 The CSS is responsive. 
 There is no Javascript.
 The website includes the following pages:
-1) Home
-2) Screenings
-3) Workshops
-4) Collaborations
+- Home (index.html)
+- Film Screenings (screenings.html)
+- Workshops (workshops.html)
+- Collaborations (collaborations.html)
 The website URL is <ADD published URL>.
