@@ -8,4 +8,4 @@ The website includes the following pages:
 - Film Screenings (screenings.html)
 - Workshops (workshops.html)
 - Collaborations (collaborations.html)
-The website URL is <ADD published URL>.
+The website URL is https://denanash22.github.io/NASH-5-Build/.
